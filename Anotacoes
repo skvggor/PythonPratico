@@ -1,0 +1,19 @@
+Cifra:
+  * Algoritmo que ofusca algum texto com uma senha (por exemplo).
+
+Código:
+  * Representação de texto.
+
+Rot13:
+  * Cifra derivada da cifra de Cesar.
+
+XOR Cypher
+TDD - Test Driven Design
+Python Anywhere: python no browser.
+One Time Pad
+Tuple unpacking (zip)
+x, y  = lista[0] # [(), (), ..., ()]
+Ver palestra `Iteradores e geradores` - Luciano Ramalho
+PyPy compiler (mais performance, python 2.7) Vs CPython (menos performance)
+List comprehension: deriva do Haskell
+Microsoft LINQ (DB)
