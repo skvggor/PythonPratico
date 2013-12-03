@@ -52,9 +52,10 @@ def main():
 
     elif tipo == 'decifrar':
         print('Decifrando:', nome_entrada)
-        arq = open(nome_entrada, 'rb')
-        blob = arq.read()
-        arq.close()
+
+        with open(nome_entrada, 'rb') as blob
+            blob = arq.read()
+
         texto = xor_decifra(senha, blob)
         print(texto)
 
