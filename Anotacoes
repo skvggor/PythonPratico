@@ -1,3 +1,5 @@
+29 de novembro de 2013
+
 Cifra:
   * Algoritmo que ofusca algum texto com uma senha (por exemplo).
 
@@ -17,3 +19,14 @@ Ver palestra `Iteradores e geradores` - Luciano Ramalho
 PyPy compiler (mais performance, python 2.7) Vs CPython (menos performance)
 List comprehension: deriva do Haskell
 Microsoft LINQ (DB)
+
+02 de dezembro de 2013
+
+Python 3:
+  * Anotations ( -> saida, variable:tipo)
+
+Pickle
+
+Chaveiro (ProPython)
+
+Interfaces Gráficas - GUI
